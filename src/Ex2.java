@@ -6,7 +6,7 @@ public class Ex2
         int n = 3, temp;
         Scanner s = new Scanner(System.in);
         System.out.println("Enter 3 number elements you want in array:");
-        int a[] = new int[n];//assgin array in to int a (4 values can be stored)
+        int a[] = new int[n];//assgin array in to int a (3 values can be stored)
         //store numbers from user
         for (int i = 0; i < n; i++)
         {
